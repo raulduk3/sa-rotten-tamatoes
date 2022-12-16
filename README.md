@@ -3,6 +3,7 @@
 Richard Álvarez
 
 IPHS 200.02 Programming Humanity (https://programminghumanity.wordpress.com/) 
+
 Kenyon College
 
 <p align="center">
