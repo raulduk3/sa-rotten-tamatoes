@@ -1,8 +1,6 @@
 # sa-rotten-tamatoes
 Sentiment Analysis of Rotten Tomato Reviews
 
-Sentiment Analysis of Rotten Tomato Reviews
-
 Abstract
 
 In this project, the sentiment of user reviews on the movie review website Rotten Tomatoes was analyzed. The goal was to gain insight into the psychology of movie consumers and to evaluate the reliability of user reviews on Rotten Tomatoes. Rotten Tomatoes provide a short comment/review and an indicator of the film’s ‘freshness’ (either fresh or rotten). The sentiment of the reviews was analyzed by employing a qualitative approach; the reviews were filtered for common stop words and tokenized for sentiment analysis using the VADER tool and the NLTK library.
