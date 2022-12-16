@@ -1,6 +1,11 @@
 # sa-rotten-tamatoes
 Sentiment Analysis of Rotten Tomato Reviews
 
+Richard Álvarez
+
+IPHS 200: Programming Humanity (https://programminghumanity.wordpress.com/) 
+Kenyon College
+
 <p align="center">
     <img width="66%" style='padding:5%;' src="https://github.com/morty-c137-prime/sa-rotten-tamatoes/blob/e91eae58afdbd45a73a481bcca25cad079d91e71/R%C3%81%20iphs200_programming_humanity_final_poster_standard.pptx%20(2).jpg?raw=true">
 </p>
