@@ -3,7 +3,7 @@ Sentiment Analysis of Rotten Tomato Reviews
 
 Richard Álvarez
 
-IPHS 200: Programming Humanity (https://programminghumanity.wordpress.com/) 
+IPHS 200.02 Programming Humanity (https://programminghumanity.wordpress.com/) 
 Kenyon College
 
 <p align="center">
