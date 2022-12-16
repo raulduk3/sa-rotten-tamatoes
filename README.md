@@ -1,5 +1,4 @@
-# sa-rotten-tamatoes
-Sentiment Analysis of Rotten Tomato Reviews
+# Sentiment Analysis of Rotten Tomato Reviews
 
 Richard Álvarez
 
