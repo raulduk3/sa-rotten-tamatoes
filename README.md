@@ -18,7 +18,7 @@ Kenyon IPHS 200.02 Programming Humanity (https://programminghumanity.wordpress.c
 
 In this project, the sentiment of user reviews on the movie review website Rotten Tomatoes was analyzed. The goal was to gain insight into the psychology of movie consumers and to evaluate the reliability of user reviews on Rotten Tomatoes. Rotten Tomatoes provide a short comment/review and an indicator of the film’s ‘freshness’ (either fresh or rotten). The sentiment of the reviews was analyzed by employing a qualitative approach; the reviews were filtered for common stop words and tokenized for sentiment analysis using the VADER tool and the NLTK library.
 
-Introduction
+# Introduction
 
 The use of sentiment analysis in the field of movie reviews has gained popularity in recent years, as it allows for the automatic evaluation of large amounts of review data. This can provide valuable insights for movie studios, film critics, and moviegoers alike. However, the accuracy and reliability of sentiment analysis tools and techniques is still an active area of research.
 
