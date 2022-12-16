@@ -1,6 +1,7 @@
 # sa-rotten-tamatoes
 Sentiment Analysis of Rotten Tomato Reviews
 
+
 <p align="center">
     <img width="30%" style='padding:5%;' src="https://github.com/morty-c137-prime/sa-rotten-tamatoes/blob/eb20c4f218ef07d235c4791f79ce16a680e6792b/image2.jpg?raw=true">
     <img width="200" height="200" src="https://raw.githubusercontent.com/morty-c137-prime/sa-rotten-tamatoes/98e053ba0009783f0d50225cc5900725f20b0eb6/image1.jpg?raw=true">
@@ -31,7 +32,7 @@ Results
 
 Overall, approximately 73% of the reviews were consistent across sentiment analysis and ‘freshness’, which suggests both that VADER is a strong tool for sentiment analysis and that people on Rotten Tomatoes are mostly reliable. This study provides insight into the sentiment of user reviews on Rotten Tomatoes and suggests that the website could potentially improve the reliability of its reviews by filtering for more consistent reviews. However, it should be noted that this study only analyzed a single dataset from a specific time period, and further research would be necessary to fully understand the sentiment of user reviews on Rotten Tomatoes.
 
-To visualize the distribution of sentiment scores for each 'freshness' category, a violin plot was created. This plot showed that the sentiment scores for 'fresh' reviews were generally more positive than the sentiment scores for 'rotten' reviews. However, there was some overlap between the two categories, indicating that there were some 'fresh' reviews with negative sentiment scores and some 'rotten' reviews with positive sentiment scores.
+To visualize the distribution of sentiment scores for each 'freshness' category, a violin plot was created. This plot showed that the sentiment scores for both 'fresh' and ‘rotten’ reviews were generally positive. It also showed that ’rotten’ reviews are less aligned sentimentally than ‘fresh’ reviews. However, this does not account for the fact that reviews might use positive while still expressing the film is worth giving a ‘rotten’ rating. Moreover, there was some overlap between the two categories, indicating that there were some 'fresh' reviews with negative sentiment scores and some 'rotten' reviews with positive sentiment scores.
 
 These results suggest that the sentiment of user reviews on Rotten Tomatoes is generally in agreement with the user's 'freshness' score, but there are also some inconsistencies. This provides insight into the psychology of movie consumers and suggests that the website could potentially improve the reliability of its reviews by filtering for more consistent reviews.
 
