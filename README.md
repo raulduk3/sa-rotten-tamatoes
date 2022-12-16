@@ -2,9 +2,9 @@
 Sentiment Analysis of Rotten Tomato Reviews
 
 <p align="center">
-    <img width="30%" style='padding:5%;' src="https://raw.githubusercontent.com/morty-c137-prime/sa-rotten-tamatoes/98e053ba0009783f0d50225cc5900725f20b0eb6/image2.jpg?raw=true">
+    <img width="30%" style='padding:5%;' src="https://github.com/morty-c137-prime/sa-rotten-tamatoes/blob/eb20c4f218ef07d235c4791f79ce16a680e6792b/image2.jpg?raw=true">
     <img width="200" height="200" src="https://raw.githubusercontent.com/morty-c137-prime/sa-rotten-tamatoes/98e053ba0009783f0d50225cc5900725f20b0eb6/image1.jpg?raw=true">
-    <img width="30%" style='padding:5%;' src="https://raw.githubusercontent.com/morty-c137-prime/sa-rotten-tamatoes/98e053ba0009783f0d50225cc5900725f20b0eb6/image3.jpg?raw=true">
+    <img width="30%" style='padding:5%;' src="https://github.com/morty-c137-prime/sa-rotten-tamatoes/blob/eb20c4f218ef07d235c4791f79ce16a680e6792b/image3.jpg?raw=true">
 </p>
 
 Abstract
