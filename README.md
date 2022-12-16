@@ -43,11 +43,13 @@ https://github.com/morty-c137-prime/sa-rotten-tamatoes
 
 ### Results
 
-Approximately 73% of the reviews were consistent across sentiment analysis and ‘freshness’, which suggests both that VADER is a strong tool for sentiment analysis and that people on Rotten Tomatoes are mostly reliable. This project provides insight into the sentiment of user reviews on Rotten Tomatoes and suggests that the website could potentially improve the reliability of its reviews by filtering for more consistent reviews. However, it should be noted that this project only analyzed a single dataset from a specific time period, and further research would be necessary to fully understand the sentiment of user reviews on Rotten Tomatoes.
+Approximately 73% of the reviews were consistent across sentiment analysis and ‘freshness’. However, it should be noted that this project only analyzed a single dataset from a specific time period, and further research would be necessary to fully understand the sentiment of user reviews on Rotten Tomatoes.
 
 To visualize the distribution of sentiment scores for each 'freshness' category, a violin plot was created. This plot showed that the sentiment scores for 'fresh' reviews were generally more positive than the sentiment scores for 'rotten' reviews. However, there was some overlap between the two categories, indicating that there were some 'fresh' reviews with negative sentiment scores and some 'rotten' reviews with positive sentiment scores.
 
 These results suggest that the sentiment of user reviews on Rotten Tomatoes is generally in agreement with the user's 'freshness' score, but there are also some inconsistencies. This provides insight into the psychology of movie consumers and suggests that the website could potentially improve the reliability of its reviews by filtering for more consistent reviews.
+
+
 
 ### Conclusion
 
