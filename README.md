@@ -44,7 +44,7 @@ These results suggest that the sentiment of user reviews on Rotten Tomatoes is g
 
 ### Conclusion
 
-In conclusion, this study examined the sentiment of user reviews on the movie review website Rotten Tomatoes using the VADER tool and the NLTK library. The results showed that 66.15% of the reviews had sentiment scores that agreed with the user's provided 'freshness' score. A violin plot was also created to visualize the distribution of sentiment scores for each 'freshness' category.
+In conclusion, this study examined the sentiment of user reviews on the movie review website Rotten Tomatoes using the VADER tool and the NLTK library. The results showed that 73% of the reviews had sentiment scores that agreed with the user's provided 'freshness' score. A violin plot was also created to visualize the distribution of sentiment scores for each 'freshness' category.
 
 The results suggest that the sentiment of user reviews on Rotten Tomatoes is generally in agreement with the user's 'freshness' score. This provides insight into the psychology of movie consumers and suggests that the website could potentially improve the reliability of its reviews by filtering for more consistent reviews.
 
